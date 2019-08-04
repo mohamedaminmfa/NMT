@@ -1,0 +1,6 @@
+URL: https://github.com/neccam/nslt/tree/master/Data
+
+paper:
+
+Neural Sign Language Translation
+Necati Cihan Camgoz1, Simon Hadfield1, Oscar Koller2, Hermann Ney2, Richard Bowden1
